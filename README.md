@@ -1,8 +1,8 @@
-## Hi there 👋
+## olá 👋
 ## Sou estudante
-
-
-
+## Estou me desenvolvendo na linguagen JavaScript
+## Gostaria de receber dicas
+## Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 <!--
 **geovanasn/geovanasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
